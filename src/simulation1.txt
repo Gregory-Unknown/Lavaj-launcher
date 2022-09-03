@@ -1,0 +1,167 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+		=== Simulation #1 ===
+Baloon#B1(1): I'm a baloon, its foggy.
+Baloon#B2(2): I'm a baloon, its snowing.
+JetPlane#J1(3): I'm a jetplane, its snowing.
+Helicopter#H1(4): I'm a helicopter, its snowing.
+Helicopter#H2(5): I'm a helicopter, its snowing.
+Helicopter#H3(6): I'm a helicopter, its foggy.
+Baloon#B3(7): I'm a baloon, its sunny.
+JetPlane#J2(8): I'm a jetplane, its sunny.
+Helicopter#H4(9): I'm a helicopter, its raining.
+		=== Simulation #2 ===
+Baloon#B1(1): I'm a baloon, its sunny.
+Baloon#B2(2): I'm a baloon, its raining.
+JetPlane#J1(3): I'm a jetplane, its raining.
+Helicopter#H1(4): I'm a helicopter, its snowing.
+Helicopter#H1(4) landing.
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): I'm a helicopter, its snowing.
+Helicopter#H3(6): I'm a helicopter, its sunny.
+Baloon#B3(7): I'm a baloon, its raining.
+JetPlane#J2(8): I'm a jetplane, its raining.
+Helicopter#H4(9): I'm a helicopter, its foggy.
+		=== Simulation #3 ===
+Baloon#B1(1): I'm a baloon, its raining.
+Baloon#B2(2): I'm a baloon, its snowing.
+JetPlane#J1(3): I'm a jetplane, its foggy.
+Helicopter#H2(5): I'm a helicopter, its snowing.
+Helicopter#H3(6): I'm a helicopter, its foggy.
+Baloon#B3(7): I'm a baloon, its snowing.
+JetPlane#J2(8): I'm a jetplane, its foggy.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #4 ===
+Baloon#B1(1): I'm a baloon, its snowing.
+Baloon#B2(2): I'm a baloon, its raining.
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H2(5): I'm a helicopter, its snowing.
+Helicopter#H2(5) landing.
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): I'm a helicopter, its sunny.
+Baloon#B3(7): I'm a baloon, its raining.
+JetPlane#J2(8): I'm a jetplane, its sunny.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #5 ===
+Baloon#B1(1): I'm a baloon, its raining.
+Baloon#B1(1) landing.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2): I'm a baloon, its snowing.
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its raining.
+Baloon#B3(7): I'm a baloon, its snowing.
+Baloon#B3(7) landing.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): I'm a jetplane, its raining.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #6 ===
+Baloon#B2(2): I'm a baloon, its raining.
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its foggy.
+JetPlane#J2(8): I'm a jetplane, its foggy.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #7 ===
+Baloon#B2(2): I'm a baloon, its snowing.
+Baloon#B2(2) landing.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its sunny.
+JetPlane#J2(8): I'm a jetplane, its sunny.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #8 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its raining.
+JetPlane#J2(8): I'm a jetplane, its raining.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #9 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its foggy.
+JetPlane#J2(8): I'm a jetplane, its foggy.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #10 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its sunny.
+JetPlane#J2(8): I'm a jetplane, its sunny.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #11 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its raining.
+JetPlane#J2(8): I'm a jetplane, its raining.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #12 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its foggy.
+JetPlane#J2(8): I'm a jetplane, its foggy.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #13 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its sunny.
+JetPlane#J2(8): I'm a jetplane, its sunny.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #14 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its raining.
+JetPlane#J2(8): I'm a jetplane, its raining.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #15 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its foggy.
+JetPlane#J2(8): I'm a jetplane, its foggy.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #16 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its sunny.
+JetPlane#J2(8): I'm a jetplane, its sunny.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #17 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its raining.
+JetPlane#J2(8): I'm a jetplane, its raining.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #18 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its foggy.
+JetPlane#J2(8): I'm a jetplane, its foggy.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #19 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its sunny.
+JetPlane#J2(8): I'm a jetplane, its sunny.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #20 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its raining.
+JetPlane#J2(8): I'm a jetplane, its raining.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #21 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its foggy.
+JetPlane#J2(8): I'm a jetplane, its foggy.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #22 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its sunny.
+JetPlane#J2(8): I'm a jetplane, its sunny.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #23 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its raining.
+JetPlane#J2(8): I'm a jetplane, its raining.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #24 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its foggy.
+JetPlane#J2(8): I'm a jetplane, its foggy.
+Helicopter#H4(9): I'm a helicopter, its sunny.
+		=== Simulation #25 ===
+JetPlane#J1(3): I'm a jetplane, its sunny.
+Helicopter#H3(6): I'm a helicopter, its sunny.
+JetPlane#J2(8): I'm a jetplane, its sunny.
+Helicopter#H4(9): I'm a helicopter, its sunny.
